@@ -1,13 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head> 
-   <title>Camsun css</tittle> 
-<link rel="stylesheet" href="css/style.css">
-<body> 
-
-<h1>Im doing something</h1>
-<p>Something.</p>
-
-
-</body>
-</html> 
+body { 
+   background-color: pink;
+  }
+h1 { color: black; 
+     text-align: center; 
+   } 
+p { 
+  font-family: verdana; 
+  font-size: 20px; 
+} 
