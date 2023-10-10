@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head> 
+   <title>Camsun css</tittle> 
+<link rel="stylesheet" href="style.css">
+<body> 
+
+<h1>Im doing something</h1>
+<p>Something.</p>
+
 body { 
    background-color: pink;
   }
@@ -8,3 +18,6 @@ p {
   font-family: verdana; 
   font-size: 20px; 
 } 
+
+</body>
+</html> 
